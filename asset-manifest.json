@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sandeep-cs-dev/me/static/css/main.76ff40f4.chunk.css",
+    "main.js": "/sandeep-cs-dev/me/static/js/main.d3385996.chunk.js",
+    "main.js.map": "/sandeep-cs-dev/me/static/js/main.d3385996.chunk.js.map",
+    "runtime-main.js": "/sandeep-cs-dev/me/static/js/runtime-main.bd038283.js",
+    "runtime-main.js.map": "/sandeep-cs-dev/me/static/js/runtime-main.bd038283.js.map",
+    "static/js/2.e8f5e86a.chunk.js": "/sandeep-cs-dev/me/static/js/2.e8f5e86a.chunk.js",
+    "static/js/2.e8f5e86a.chunk.js.map": "/sandeep-cs-dev/me/static/js/2.e8f5e86a.chunk.js.map",
+    "index.html": "/sandeep-cs-dev/me/index.html",
+    "precache-manifest.c285a5cd945001de690cb63012d9c4ef.js": "/sandeep-cs-dev/me/precache-manifest.c285a5cd945001de690cb63012d9c4ef.js",
+    "service-worker.js": "/sandeep-cs-dev/me/service-worker.js",
+    "static/css/main.76ff40f4.chunk.css.map": "/sandeep-cs-dev/me/static/css/main.76ff40f4.chunk.css.map",
+    "static/js/2.e8f5e86a.chunk.js.LICENSE.txt": "/sandeep-cs-dev/me/static/js/2.e8f5e86a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd038283.js",
+    "static/js/2.e8f5e86a.chunk.js",
+    "static/css/main.76ff40f4.chunk.css",
+    "static/js/main.d3385996.chunk.js"
+  ]
+}

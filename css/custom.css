@@ -1,0 +1,28 @@
+ul {
+    list-style-type:none;
+}
+
+li {
+    margin-bottom: 5px;
+  }
+   
+  .brand-links {
+    padding: 0;
+    margin: 0
+  }
+  .brand-links li {
+    display:inline;
+    margin: 4px;
+    padding:2px;
+    margin-block-start:-5px;
+} 
+
+.services .desc p {
+    min-height: 90px;
+}
+
+    
+.responsive {
+    width: 100%;
+    height: auto;
+  }
