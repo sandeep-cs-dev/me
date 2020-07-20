@@ -1,0 +1,130 @@
+{
+    "intro": ["Hi! <br/>I'm Sandeep","I'm Backend <br/> Developer","I blog <br/>occasionally..."],
+    "links": {
+        "cv":"https://drive.google.com/file/d/1e-aBG7_511YHuCK8cMdtgbc1EIlMUrYM/view?usp=sharing",
+        "github": "https://github.com/sandeep-cs-dev",
+        "stackoverflow": "https://stackoverflow.com/users/4438061/sandeep-patel",
+        "linkedin": "https://www.linkedin.com/in/sandeep-patel-7145b060/",
+        "blog": "https://medium.com/@Sandeep_Patel",
+        "website": "https://codeschool.dev",
+        "code":"https://hackerearth.com/@sandeep453"
+    },
+    "profile": {
+        "summary": "Backend developer with over 4.7 years of experience in the design and implementation of reliable, scalable web-based applications and services.My development skills are mainly centered around web applications and REST API. Strong engineering professional with a Bachelor of Engineering (BE) in Computer Engineering.",
+        "interests": [
+            {
+                "role": "Backend Dev.",
+                "description": "I have over 4.5 years of experience as Software Developer"
+            },
+            {
+                "role": "System Design",
+                "description": "I am not an expert but devoting some of my time in this area"
+            },
+            {
+                "role": "Devops",
+                "description": "I will rate myself 6.5 out of 10 here!"
+            },
+            {
+                "role": "DSA",
+                "description": "I have fair understanding on concepts of DSA"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "name": "Cors-Proxy",
+            "role": "Backend Developer",
+            "technologies": "Nodejs, Typescript",
+            "description": "A Basic Cors-Proxy server for Javascript web applications."
+        },
+        {
+            "name": "Leaderboard Engine",
+            "role": "Java Developer",
+            "technologies": "Spring Boot, k-Way Merge Sort, Java, Apache Ignite",
+            "description": "Application for Generating Leaderboard for Online contests."
+        },
+        {
+            "name": "Screen Sharing Application.",
+            "role": "Full Stack Developer.",
+            "technologies": "Nodejs, JavaScript, Express JS, RFB Protocol, WebSocket",
+            "description": "This project was aimed to let user view remote computer directly in the browser behind the proxy and firewall."
+        },
+        {
+            "name": "CodeSchool.dev",
+            "role": "Full Stack Developer.",
+            "technologies": "Nodejs, JavaScript, Expressjs, react",
+            "description": "A humble take of Medium platform for tech articles."
+        }
+    ],
+    "skills": [
+        {
+            "name": "NodeJs",
+            "percentage": "88"
+        },
+        {
+            "name": "Javascript",
+            "percentage": "70"
+        },
+        {
+            "name": "Typescript",
+            "percentage": "60"
+        },
+        {
+            "name": "Java",
+            "percentage": "67"
+        },
+        {
+            "name": "Go",
+            "percentage": "60"
+        },
+        {
+            "name": "SpringBoot",
+            "percentage": "60"
+        },
+        {
+            "name": "AWS",
+            "percentage": "58"
+        },
+        {
+            "name": "Mongodb",
+            "percentage": "70"
+        },
+        {
+            "name": "Postgres",
+            "percentage": "60"
+        },
+        {
+            "name": "Redis",
+            "percentage": "50"
+        },
+        {
+            "name": "System Design",
+            "percentage": "58"
+        },
+        {
+            "name": "Devops",
+            "percentage": "55"
+        }
+
+    ],
+    "education": [
+        {
+            "program": "Bachelor of Engineering",
+            "university": "SGSITS Indore",
+            "degree": "Computer Science",
+            "period": "2011-2015"
+        }
+    ],
+    "workexperience": [
+        {
+            "role": "Nodejs Developer",
+            "company": "Deloitte USI",
+            "period": "July 2nd 2019-present"
+        },
+        {
+            "role": "Software Engineer",
+            "company": "Wipro Digital",
+            "period": "July 2nd 2019-present"
+        }
+    ]
+}
