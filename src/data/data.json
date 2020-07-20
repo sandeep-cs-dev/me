@@ -61,10 +61,7 @@
             "name": "NodeJs",
             "percentage": "88"
         },
-        {
-            "name": "Javascript",
-            "percentage": "70"
-        },
+    
         {
             "name": "Typescript",
             "percentage": "60"
@@ -78,6 +75,10 @@
             "percentage": "60"
         },
         {
+            "name": "Javascript",
+            "percentage": "70"
+        },
+        {
             "name": "SpringBoot",
             "percentage": "60"
         },
@@ -86,11 +87,15 @@
             "percentage": "58"
         },
         {
+            "name": "Postgres",
+            "percentage": "60"
+        },
+        {
             "name": "Mongodb",
             "percentage": "70"
         },
         {
-            "name": "Postgres",
+            "name": "React",
             "percentage": "60"
         },
         {
