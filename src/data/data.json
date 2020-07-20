@@ -87,7 +87,7 @@
             "percentage": "58"
         },
         {
-            "name": "PostgreSql",
+            "name": "Postgre",
             "percentage": "60"
         },
         {
@@ -109,8 +109,11 @@
         {
             "name": "Devops",
             "percentage": "55"
+        },       
+        {
+            "name": "DSA",
+            "percentage": "65"
         }
-
     ],
     "education": [
         {
