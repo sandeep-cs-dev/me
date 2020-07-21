@@ -23,7 +23,7 @@ function Skills({ data }) {
                                 <div className="progress-wrap">
                                     <h3>{skil.name}</h3>
                                     <div className="progress">
-                                        <div className={`progress-bar color-${1+Math.floor(Math.random() * 5)}`} role="progressbar" aria-valuenow={skil.percentage}
+                                        <div className={`progress-bar color-${1+Math.floor(Math.random() *5)}`} role="progressbar" aria-valuenow={skil.percentage}
                                             aria-valuemin="0" aria-valuemax="100" style={{ width:'75%'}}>
                                             <span>{skil.percentage}%</span>
                                         </div>
