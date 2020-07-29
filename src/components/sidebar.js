@@ -10,7 +10,7 @@ function SideBar({ links }) {
       <a href="#" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
       <aside id="colorlib-aside" role="complementary" className="border js-fullheight">
         <div className="text-center">
-          <div className="author-img" style={{ backgroundImage: 'url(https://i.stack.imgur.com/dH5Lm.jpg?s=328&g=1)' }}></div>
+          <div className="author-img" style={{ backgroundImage: `url(${links.avatarUrl})` }}></div>
           <h1 id="colorlib-logo"><a href="#">Sandeep Patel</a></h1>
           <span className="position">Backend Developer </span>
         </div>
