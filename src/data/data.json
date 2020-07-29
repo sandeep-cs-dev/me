@@ -1,7 +1,8 @@
 {    
-     "avtarUrl":"https://i.stack.imgur.com/dH5Lm.jpg?s=328&g=1",
+     
     "intro": ["Hi! <br/>I'm Sandeep","I'm Backend <br/> Developer","I blog <br/>occasionally..."],
     "links": {
+        "avatarUrl":"https://i.stack.imgur.com/dH5Lm.jpg?s=328&g=1",
         "cv":"https://drive.google.com/file/d/1e-aBG7_511YHuCK8cMdtgbc1EIlMUrYM/view?usp=sharing",
         "github": "https://github.com/sandeep-cs-dev",
         "stackoverflow": "https://stackoverflow.com/users/4438061/sandeep-patel",

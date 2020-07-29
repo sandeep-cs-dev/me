@@ -12,7 +12,6 @@ import Linkswrapper from './components/linkswrapper';
 import Skills from './components/skills';
 import * as profileData from './data/data.json';
 function App() {
-
   return (
     <div id="colorlib-page">
       <div id="container-wrap">
