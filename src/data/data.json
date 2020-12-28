@@ -12,11 +12,11 @@
         "code":"https://hackerearth.com/@sandeep453"
     },
     "profile": {
-        "summary": "Software Engineer with 4.5 years of experience in the design and implementation of reliable, scalable web-based applications and services. My development skills are mainly centered around web applications and REST API. Strong engineering background with a Bachelor of Engineering in Computer.",
+        "summary": "Software Engineer with 5.3 years of experience in the design and implementation of reliable, scalable web-based applications and services. My development skills are mainly centered around web applications and REST API. Strong engineering background with a Bachelor of Engineering in Computer.",
         "interests": [
             {
                 "role": "Backend Dev.",
-                "description": "I have over 4.5 years of experience as Software Developer"
+                "description": "I have over 5.3 years of experience as Software Developer"
             },
             {
                 "role": "System Design",
@@ -66,35 +66,35 @@
     
         {
             "name": "Typescript",
-            "percentage": "60"
+            "percentage": "65"
         },
         {
             "name": "Java",
-            "percentage": "67"
+            "percentage": "68"
         },
         {
             "name": "Go",
-            "percentage": "60"
+            "percentage": "65"
         },
         {
             "name": "Javascript",
-            "percentage": "71"
+            "percentage": "75"
         },
         {
             "name": "SpringBoot",
-            "percentage": "60"
+            "percentage": "65"
         },
         {
             "name": "AWS",
-            "percentage": "60"
+            "percentage": "63"
         },
         {
             "name": "Postgre",
-            "percentage": "60"
+            "percentage": "65"
         },
         {
             "name": "Mongodb",
-            "percentage": "70"
+            "percentage": "75"
         },
         {
             "name": "React",
@@ -102,19 +102,19 @@
         },
         {
             "name": "Redis",
-            "percentage": "50"
+            "percentage": "65"
         },
         {
             "name": "System Design",
-            "percentage": "62"
+            "percentage": "70"
         },
         {
             "name": "Devops",
-            "percentage": "55"
+            "percentage": "60"
         },       
         {
             "name": "DSA",
-            "percentage": "65"
+            "percentage": "68"
         }
     ],
     "education": [
