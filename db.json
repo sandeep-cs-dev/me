@@ -1,0 +1,140 @@
+{    
+     
+    "intro": ["Hi! <br/>I'm Sandeep","I'm Backend <br/> Developer","I blog <br/>occasionally..."],
+    "links": {
+        "avatarUrl":"https://i.stack.imgur.com/dH5Lm.jpg?s=328&g=1",
+        "cv":"https://drive.google.com/file/d/1e-aBG7_511YHuCK8cMdtgbc1EIlMUrYM/view?usp=sharing",
+        "github": "https://github.com/sandeep-cs-dev",
+        "stackoverflow": "https://stackoverflow.com/users/4438061/sandeep-patel",
+        "linkedin": "https://www.linkedin.com/in/sandeep-patel-7145b060/",
+        "blog": "https://sandeep-patel.medium.com",
+        "website": "https://codeschool.dev",
+        "code":"https://hackerearth.com/@sandeep453"
+    },
+    "profile": {
+        "summary": "Software Engineer with 5.3 years of experience in the design and implementation of reliable, scalable web-based applications and services. My development skills are mainly centered around web applications and REST API. Strong engineering background with a Bachelor of Engineering in Computer.",
+        "interests": [
+            {
+                "role": "Backend Dev.",
+                "description": "I have over 5.3 years of experience as Software Developer"
+            },
+            {
+                "role": "System Design",
+                "description": "I am not an expert but devoting some of my time in this area"
+            },
+            {
+                "role": "Devops",
+                "description": "I will rate myself 6.5 out of 10 here!"
+            },
+            {
+                "role": "DSA",
+                "description": "I have fair understanding on concepts of DSA"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "name": "Cors-Proxy",
+            "role": "Backend Developer",
+            "technologies": "Nodejs, Typescript",
+            "description": "A Basic Cors-Proxy server for Javascript web applications."
+        },
+        {
+            "name": "Leaderboard Engine",
+            "role": "Java Developer",
+            "technologies": "Spring Boot, k-Way Merge Sort, Java, Apache Ignite",
+            "description": "Application for Generating Leaderboard for Online contests."
+        },
+        {
+            "name": "Screen Sharing Application.",
+            "role": "Full Stack Developer.",
+            "technologies": "Nodejs, JavaScript, Express JS, RFB Protocol, WebSocket",
+            "description": "This project was aimed to let user view remote computer directly in the browser behind the proxy and firewall."
+        },
+        {
+            "name": "CodeSchool.dev",
+            "role": "Full Stack Developer.",
+            "technologies": "Nodejs, JavaScript, Expressjs, react",
+            "description": "A humble take of Medium platform for tech articles."
+        }
+    ],
+    "skills": [
+        {
+            "name": "NodeJs",
+            "percentage": "88"
+        },
+    
+        {
+            "name": "Typescript",
+            "percentage": "65"
+        },
+        {
+            "name": "Java",
+            "percentage": "68"
+        },
+        {
+            "name": "Go",
+            "percentage": "65"
+        },
+        {
+            "name": "Javascript",
+            "percentage": "75"
+        },
+        {
+            "name": "SpringBoot",
+            "percentage": "65"
+        },
+        {
+            "name": "AWS",
+            "percentage": "63"
+        },
+        {
+            "name": "Postgre",
+            "percentage": "65"
+        },
+        {
+            "name": "Mongodb",
+            "percentage": "75"
+        },
+        {
+            "name": "React",
+            "percentage": "60"
+        },
+        {
+            "name": "Redis",
+            "percentage": "65"
+        },
+        {
+            "name": "System Design",
+            "percentage": "70"
+        },
+        {
+            "name": "Devops",
+            "percentage": "60"
+        },       
+        {
+            "name": "DSA",
+            "percentage": "68"
+        }
+    ],
+    "education": [
+        {
+            "program": "Bachelor of Engineering",
+            "university": "SGSITS Indore",
+            "degree": "Computer Science",
+            "period": "2011-2015"
+        }
+    ],
+    "workexperience": [
+        {
+            "role": "Nodejs Developer",
+            "company": "Deloitte USI",
+            "period": "July 2019-present"
+        },
+        {
+            "role": "Software Engineer",
+            "company": "Wipro Digital",
+            "period": " Aug 2015- Jun 2018"
+        }
+    ]
+}
